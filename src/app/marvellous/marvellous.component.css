@@ -1,0 +1,14 @@
+.Success
+{
+
+    color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+.Failure
+{
+    color:blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: smaller;
+}
